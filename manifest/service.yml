@@ -4,7 +4,7 @@ metadata:
   labels:
     app: nginx
   name: my-service
-  namespace: nginxdemo
+  namespace: dev
 spec:
   ports:
   - name: 5678-8080
